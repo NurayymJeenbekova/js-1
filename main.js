@@ -1,4 +1,11 @@
-//1 задание
-const greet = "Hello World!";
+//№1 
+//const greet = "Hello World!";
 
-document.write(greet);
+//document.write(greet);
+
+//№2
+let message = "first";
+document.write(message + "<br>"); 
+
+message = "second";
+document.write(message);
